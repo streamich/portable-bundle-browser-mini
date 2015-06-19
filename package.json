@@ -1,0 +1,13 @@
+{
+  "name": "portable-bundle-browser-mini",
+  "version": "0.0.1",
+  "description": "Mini portable.js browser bundle",
+  "main": "index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/streamich/portable-bundle-browser-mini.git"
+  },
+  "license": "Unlicense",
+  "dependencies": {},
+  "devDependencies": {}
+}
